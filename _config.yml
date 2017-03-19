@@ -1,0 +1,44 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# SEO settings
+title: Logopädische Praxis Manuela Dörfel | Heidenau
+
+description: >
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  Pellentesque ac placerat nisi, et rutrum lacus. 
+  Etiam eget est ut tellus suscipit tincidunt. 
+  Proin scelerisque a ex sed egestas. 
+  
+baseurl: ""
+url: "heidenau-logopaedie.de"
+logo: logo.svg
+logo-light: logo-light.svg
+
+image: heidenau-logopaedie.jpg
+
+
+#Contact Information
+email: logopaedie-doerfel@gmx.de
+phone: 03529 - 58 66 86
+fax: 03529 - 58 67 09
+mobile: 0173 - 61 52 754
+
+address:  'Käthe-Kollwitz-Straße 28<br>
+          01809 Heidenau'
+
+
+# Social Media
+facebook: ""
+twitter: ""
+google: ""
+
+
+# Build settings
+markdown: kramdown
+
+include: ['_pages']
