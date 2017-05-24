@@ -88,7 +88,20 @@ footer p {
   font-size: 12px; }
 
 footer a {
+  font-size: 12px;
   color: #FEF9FF; }
+
+footer ul {
+  display: block;
+  list-style-type: none;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-padding-start: 0px; }
+
+footer p {
+  margin-bottom: 0; }
 
 input {
   width: 100%; }

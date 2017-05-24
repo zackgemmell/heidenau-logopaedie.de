@@ -4,11 +4,11 @@
     <title>Logopädische Praxis Manuela Dörfel | Heidenau</title>
     <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Pellentesque ac placerat nisi, et rutrum lacus.  Etiam eget est ut tellus suscipit tincidunt.  Proin scelerisque a ex sed egestas. 
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Mar 2017 15:16:41 -0700</pubDate>
-    <lastBuildDate>Sun, 19 Mar 2017 15:16:41 -0700</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <link>heidenau-logopaedie.de/</link>
+    <atom:link href="heidenau-logopaedie.de/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 23 May 2017 22:24:20 -0700</pubDate>
+    <lastBuildDate>Tue, 23 May 2017 22:24:20 -0700</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
     
   </channel>
 </rss>
