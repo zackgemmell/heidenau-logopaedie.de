@@ -1,7 +1,7 @@
 ---
 layout: team
-permalink: /manuela-doerfel/
-image: manuela-doerfel.jpg
+permalink: /cornelia-bluembott/
+image: cornelia-bluembott.jpg
 ---
 
 # Manuela Dörfel

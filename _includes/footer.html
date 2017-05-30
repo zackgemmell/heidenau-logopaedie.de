@@ -2,12 +2,12 @@
 	<div class="container">
 		<div class="row">
 
-			<div class="col-sm-5">
+			<div class="col-sm-12 col-md-5">
 				<h2>Praxis</h2>
 				<p>{{site.description}}</p>
 			</div>
 
-			<div class="col-sm-3 col-sm-offset-1">
+			<div class="col-sm-12 col-md-3 col-md-offset-1">
 				<h2>Kontakt</h2>
 				
 					<p>Tel: <a href="tel:{{site.phone | remove: '(' | remove: ')' | remove: ' ' | remove: '-' | remove: '+' | cgi_escape | prepend: '+49'}}">{{site.phone}}</a></p>
@@ -19,7 +19,7 @@
 				
 			</div>
 
-			<div class="col-sm-3">
+			<div class="col-sm-12 col-md-3">
 				<h2>Information</h2>
 				<a href="#praxis">Praxis</a><br/>
 				<a href="#leistungen">Leistungen</a><br/>
