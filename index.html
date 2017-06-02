@@ -18,7 +18,7 @@ layout: default
   
 
 
-  <div class="row" id="logopaedie">
+  <div class="row" id="logopaedie" style="padding-top: 40px;">
 
     <div class="col-12">
     <h1>Was ist Logopädie?</h1>
@@ -26,12 +26,12 @@ layout: default
     Patienten aller Altersgruppen mit Störungen der Sprache, des Sprechens, der Stimme, des Hörens und des Schluckens.
 
     Ziel ist die Erhaltung, Verbesserung und Wiederherstellung der kommunikativen
-    Fähigkeiten des Patienten.
+    Fähigkeiten des Patienten.</p>
 
-    Die interdisziplinäre Zusammenarbeit mit benachbarten Berufsgruppen, wie zum Beispiel Ärzten, ist
-    wesentlicher Bestandteil im Berufsalltag eines Logopäden.
+    <p>Die interdisziplinäre Zusammenarbeit mit benachbarten Berufsgruppen, wie zum Beispiel Ärzten, ist
+    wesentlicher Bestandteil im Berufsalltag eines Logopäden.</p>
 
-    Logopädische Therapie wird von Ärzten verordnet. Die Kosten übernehmen
+    <p>Logopädische Therapie wird von Ärzten verordnet. Die Kosten übernehmen
     bis zum 18. Lebensjahr die Krankenkassen.</p>
 
     </div>
@@ -47,7 +47,7 @@ Therapien werden in der Regel in den Räumlichkeiten unserer logopädischen Prax
 <p>Bitte beachten Sie, dass Therapien überlicherweise von Ärzten verordnet and die Kosten von Krankenkassen übernommen werden. Bei Nachfragen sind wir Ihnen gerne behilflich. </p>
     </div>
 
-  <div id="accordion" role="tablist" aria-multiselectable="true">
+  <div id="accordion" role="tablist" aria-multiselectable="true" style="padding-top: 20px;">
   <div class="card">
     <div class="card-header" role="tab" id="headingOne">
       <h5 class="mb-0">
@@ -142,12 +142,18 @@ Behandlung von Schluckstörungen und Problemen bei der Nahrungsaufnahme</li>
 
 </div>
 
+</div>
+
+<div class="container-fluid" style="background-color: #f4f4f4;  margin-top: 40px; padding-bottom: 20px;">
+
+<div class="container">
+
 <div class="row" id="team">
       <div class="col-12">
       <h1>Team</h1>
       </div>
       
-      <div class="col-6">
+      <div class="col-3">
       <a href="/manuela-doerfel/">
       <img class="img-fluid" src="img/manuela-doerfel.jpg">
       <h2>Manuela Dörfel</h2>
@@ -155,7 +161,7 @@ Behandlung von Schluckstörungen und Problemen bei der Nahrungsaufnahme</li>
       </a>
       </div>
 
-      <div class="col-6">
+      <div class="col-3">
       <a href="/cornelia-bluembott/">
       <img class="img-fluid" src="img/cornelia-bluembott.jpg">
       <h2>Cornelia Blümbott</h2>
@@ -163,6 +169,12 @@ Behandlung von Schluckstörungen und Problemen bei der Nahrungsaufnahme</li>
       </a>
       </div>
   </div>
+
+  </div>
+
+  </div>
+
+  <div class="container">
 
   <div class="row" id="kontakt">
 
@@ -173,17 +185,34 @@ Behandlung von Schluckstörungen und Problemen bei der Nahrungsaufnahme</li>
 
     <div class="col-md-4">
 
-      <p><a href="https://goo.gl/maps/9VGTpqK8qr92">{{site.address}}</a></p>
-
-    <p>Praxis: <a href="tel:{{site.phone | remove: '(' | remove: ')' | remove: ' ' | remove: '-' | remove: '+' | cgi_escape | prepend: '+49'}}">{{site.phone}}</a></p>
-
-    <p>Mobile: <a href="tel:{{site.mobile | remove: '(' | remove: ')' | remove: ' ' | remove: '-' | remove: '+' | cgi_escape | prepend: '+49'}}">{{site.mobile}}</a></p>
-          
-    <p>Fax: <a href="tel:{{site.fax | remove: '(' | remove: ')' | remove: ' ' | remove: '-' | remove: '+' | cgi_escape | prepend: '+49'}}">{{site.fax}}</a></p>
-
-    <p>Email: <a href="mailto:{{site.email}}">{{site.email}}</a></p>
-          
-    
+    <table>
+      <tr>
+        <td><span class="icon-Location-Pin"></span></td>
+        <td style="padding-bottom: 15px;"><p><a href="https://goo.gl/maps/9VGTpqK8qr92">{{site.address}}</a></p></td>
+      </tr>
+      <tr>
+        <td><span class="icon-Call"></span></td>
+        <td><p>Praxis: <a href="tel:{{site.phone | remove: '(' | remove: ')' | remove: ' ' | remove: '-' | remove: '+' | cgi_escape | prepend: '+49'}}">{{site.phone}}</a></p></td>
+      </tr>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <p>Mobile: <a href="tel:{{site.mobile | remove: '(' | remove: ')' | remove: ' ' | remove: '-' | remove: '+' | cgi_escape | prepend: '+49'}}">{{site.mobile}}</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+        </td>
+        <td style="padding-bottom: 15px;">
+        <p>Fax: <a href="tel:{{site.fax | remove: '(' | remove: ')' | remove: ' ' | remove: '-' | remove: '+' | cgi_escape | prepend: '+49'}}">{{site.fax}}</a></p>
+        </td>
+      </tr>
+      <tr style="padding-bottom: 15px;">
+        <td><span class="icon-Mail-2"></span></td>
+        <td><p>Email: <a href="mailto:{{site.email}}">{{site.email}}</a></p></td>
+      </tr>
+    </table>
 
     </div>
 
