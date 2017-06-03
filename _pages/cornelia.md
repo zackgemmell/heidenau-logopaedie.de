@@ -2,6 +2,7 @@
 layout: team
 permalink: /cornelia-bluembott/
 image: cornelia-bluembott.jpg
+published: false
 ---
 
 # Manuela Dörfel
