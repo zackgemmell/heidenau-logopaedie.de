@@ -61,7 +61,7 @@ table td span {
   color: #FFF; }
 
 .reservations-form {
-  background-color: transparent;
+  background-color: rgba(0, 0, 0, 0);
   border-color: #fff;
   border-width: 1px;
   color: #FFF; }
@@ -71,7 +71,7 @@ table td span {
   margin-bottom: 20px; }
 
 .form-control:focus {
-  background-color: transparent;
+  background-color: rgba(0, 0, 0, 0);
   border-color: #000;
   color: #000; }
 
@@ -168,6 +168,12 @@ input {
   display: inline-block;
   vertical-align: middle;
   float: none; }
+
+a.anchor {
+  display: block;
+  position: relative;
+  top: -45px;
+  visibility: hidden; }
 
 .navbar {
   background-color: rgba(255, 255, 255, 0.8);

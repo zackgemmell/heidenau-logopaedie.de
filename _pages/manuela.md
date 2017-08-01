@@ -6,27 +6,31 @@ image: manuela-doerfel.jpg
 
 # Manuela Dörfel
 
+<br/>
 ## Abschlüsse
 
-| **1985** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Kindergärtnerin |
+| **1985** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Kindergärtnerin |
 | **1993** | Staatlich anerkannte Erzieherin |
 | **2001** | Logopädin |
 
+<br/>
 ## beruflicher Werdegang
 
-| **1982-85** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Ausbildung zur Kindergärtnerin in Dresden |
-| **1985-93** | Kindergärtnerin/Erzieherin in Kindergärten und Grundschulen der Stadt Heidenau |
-| **1998-01** | Ausbildung zur Logopädin in Kreischa |
-| **2001-04** | Logopädin im Universitätsklinikum Dresden (Diagnostik, Therapie und Beratung von Patienten mit Cochlea Implantat und Arbeit im ambulanten Bereich)<br/>Angestellte Logopädin in Heidenau (Therapie von Erwachsenen und Kindern) |
+| **1982-1985** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Ausbildung zur Kindergärtnerin in Dresden |
+| **1985-1993** | Kindergärtnerin/Erzieherin in Kindergärten und Grundschulen der Stadt Heidenau |
+| **1998-2001** | Ausbildung zur Logopädin in Kreischa |
+| **2001-2004** | Logopädin im Universitätsklinikum Dresden (Diagnostik, Therapie und Beratung von Patienten mit Cochlea Implantat und Arbeit im ambulanten Bereich), <br/>sowie angestellte Logopädin in Heidenau (Therapie von Erwachsenen und Kindern) |
 | **seit 2004** | Gründung der eigenen Praxis für Logopädie<br/>Angestellte Logopädin im Universitätsklinikum Dresden |
 
+<!--  -->
 
+<br/>
 ## Weiterbildungen
 
-| **2003-04** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Angewandte Diagnostik und Therapie der Dysphagie |
+| **2003-2004** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Angewandte Diagnostik und Therapie der Dysphagie |
 | **2007** | Diagnostische Erfassung von Sprachleistungen mit aktuellen diagnostischen Verfahren |
 | **2009** | Late Talker |
-| **2009-10** | Manuelle Fascilitation |
+| **2009-2010** | Manuelle Fascilitation |
 | **2010** | Differenzialdiagnostik, Sprachtherapie und Elternberatung bei mehrsprachigen Kindern |
 | **2011** | Das Cochlea Implantat (CI) in der logopädsichen Praxis |
 | **2011** | Sprachentwicklungsstörungen |
