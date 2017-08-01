@@ -2,11 +2,11 @@
 layout: team
 permalink: /cornelia-bluembott/
 image: cornelia-bluembott.jpg
-published: false
+published: true
 ---
 
-# Manuela Dörfel
-
+# Cornelia Blümbott
+<!-- 
 ## Abschlüsse
 
 | **1985** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Kindergärtnerin |
@@ -36,4 +36,4 @@ published: false
 | **2014** | Spracherwerbsstörungen Dr. Barbara Zollinger |
 | **2015** | Nahrungsaufnahme im Kindesalter |
 | **2016** | Down- Syndrom- Kinder beim Spracherwerb unterstützen |
-| **2017** | Demenz |
+| **2017** | Demenz | -->
