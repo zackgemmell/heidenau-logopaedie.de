@@ -16,9 +16,9 @@ image: manuela-doerfel.jpg
 <br/>
 ## beruflicher Werdegang
 
-| **1982-1985** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Ausbildung zur Kindergärtnerin in Dresden |
+| **1982-1985** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Fachschulstudium zur Kindergärtnerin in Dresden |
 | **1985-1993** | Kindergärtnerin/Erzieherin in Kindergärten und Grundschulen der Stadt Heidenau |
-| **1998-2001** | Ausbildung zur Logopädin in Kreischa |
+| **1998-2001** | Fachschulstudium zur Logopädin in Kreischa |
 | **2001-2004** | Logopädin im Universitätsklinikum Dresden (Diagnostik, Therapie und Beratung von Patienten mit Cochlea Implantat und Arbeit im ambulanten Bereich), <br/>sowie angestellte Logopädin in Heidenau (Therapie von Erwachsenen und Kindern) |
 | **seit 2004** | Gründung der eigenen Praxis für Logopädie<br/>Angestellte Logopädin im Universitätsklinikum Dresden |
 
