@@ -169,6 +169,10 @@ input {
   vertical-align: middle;
   float: none; }
 
+.caption h3 {
+  line-height: 1.5em;
+  padding-top: 10px; }
+
 a.anchor {
   display: block;
   position: relative;
