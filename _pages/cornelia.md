@@ -2,7 +2,7 @@
 layout: team
 permalink: /cornelia-bluembott/
 image: cornelia-bluembott.jpg
-published: true
+published: false
 ---
 
 # Cornelia Blümbott
